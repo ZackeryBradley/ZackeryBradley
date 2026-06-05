@@ -15,28 +15,19 @@ I enjoy building dashboards, analyzing trends, and helping stakeholders make dat
 ## 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=ZackeryBradley&show_icons=true)
 
-
-## 🔧 Technical Skills
-- SQL
-- Python (Pandas, Matplotlib)
-- Power BI (DAX, Data Modeling)
-- Excel (Advanced formulas, dashboards)
-- Tableau
-- R
-
 ---
 
 ## 📊 Featured Projects
 
-### 1. Sales Performance Dashboard (Power BI)
-- Built an interactive dashboard to track KPIs, revenue trends, and performance by region  
-- Tools: Power BI, DAX  
-👉 [View Project](https://github.com/YOUR_LINK)
+### 1. Titanic Data Warehouse Star Schema
+- Built an streamlit app with global filters for in depth data modeling and analysis. 
+- Tools: Streamlit, Python,Pandas  
+👉 [View Project]([https://github.com/YOUR_LINK](https://github.com/ZackeryBradley/Titanic-Data-Warehouse-Star-Schema-))
 
 ### 2. SQL Data Analysis Project
 - Analyzed customer behavior and segmentation using complex SQL queries  
 - Tools: SQL Server  
-👉 [View Project](https://github.com/YOUR_LINK)
+👉 [View Project]([https://github.com/YOUR_LINK](https://github.com/ZackeryBradley/Python_Projects/tree/main/KPI_Monitoring_and_Alerts))
 
 ### 3. Python Data Analysis
 - Performed exploratory data analysis and visualization using Pandas and Matplotlib  
