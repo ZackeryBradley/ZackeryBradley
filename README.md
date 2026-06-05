@@ -42,9 +42,10 @@ I build data-driven solutions that transform raw data into actionable insights. 
 
 ## 📈 GitHub Analytics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZackeryBradley&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackeryBradley&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZackeryBradley&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZackeryBradley&layout=compact&hide_border=true" />
+</p>
 ---
 
 ## ⚡ Project Highlights
