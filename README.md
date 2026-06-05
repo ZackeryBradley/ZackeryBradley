@@ -1,122 +1,82 @@
 # Zackery Bradley 👋
-### Data Analyst | SQL | Python | Power BI | Data Quality & Analytics Engineering
+### Data Analyst | Analytics Engineering | SQL • Python • Power BI
 
 ---
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ZackeryBradley&show_icons=true)
-
 
 ## 🚀 About Me
-I’m a data analyst focused on transforming raw data into structured, reliable, and actionable insights.
-
-My work centers on building scalable analytics solutions — including data modeling (star schemas), KPI monitoring systems, data validation frameworks, and dynamic reporting tools. I enjoy solving real business problems and improving how organizations interact with their data.
+I build data-driven solutions that transform raw data into actionable insights. My focus is on analytics engineering, data quality, KPI monitoring, and scalable reporting systems.
 
 ---
 
-## 🔧 Technical Skills
-- **Languages:** Python, SQL, R  
-- **Visualization:** Power BI, Tableau  
-- **Data Tools:** Pandas, Excel  
-- **Core Concepts:**  
-  - Data Modeling (Star Schema)  
-  - Data Validation & Quality Assurance  
-  - KPI Monitoring & Alerting  
-  - Ad-Hoc Reporting & Analysis  
+## 🧰 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Visualization & BI
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### Data & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-0A66C2?style=for-the-badge)
+![Data Quality](https://img.shields.io/badge/Data_Quality-FF6F00?style=for-the-badge)
 
 ---
 
-## 📊 Featured Projects
+## 📊 Portfolio Dashboard
+
+| Project | Category | Key Skills |
+|--------|--------|-----------|
+| [Titanic Data Warehouse](https://github.com/ZackeryBradley/Titanic-Data-Warehouse-Star-Schema-) | Data Modeling | Star Schema, ETL |
+| [KPI Monitoring & Alerts](https://github.com/ZackeryBradley/KPI-Monitoring-Alerting-System) | Analytics Engineering | Automation, Alerting |
+| [Data Validation Framework](https://github.com/ZackeryBradley/Data-Validation-Schema-Enforcement) | Data Engineering | Schema Checks, Data Quality |
+| [Ad-Hoc Reporting Engine](https://github.com/ZackeryBradley/Ad-Hoc-Reporting-Engine) | Analytics | Reporting, EDA |
+| [Spanish Flash Cards](https://github.com/ZackeryBradley/Spanish-Flash-Card-Learning-App) | App Development | Python UI, Logic |
+| [US States Game](https://github.com/ZackeryBradley/US-States-Python-Game) | Python | Game Logic |
 
 ---
 
-### ⭐ Titanic Data Warehouse (Star Schema)
-📌 Data Modeling Project  
+## 📈 GitHub Analytics
 
-Designed a star schema data warehouse using the Titanic dataset to support scalable analytics and reporting.
-
-**Key Highlights**
-- Built fact and dimension tables for efficient querying  
-- Structured raw data into an analytics-ready model  
-- Demonstrated best practices in dimensional modeling  
-
-🔗 https://github.com/ZackeryBradley/Titanic-Data-Warehouse-Star-Schema-
+<!-- SAFE STATS (will not error) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZackeryBradley&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZackeryBradley&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
 
 ---
 
-### ⭐ KPI Monitoring & Alerting System
-📌 Analytics Engineering / Automation  
+## ⚡ Project Highlights
 
-Developed a system to monitor KPIs and trigger alerts based on defined thresholds.
-
-**Key Highlights**
-- Automated KPI tracking with Python  
-- Implemented threshold-based alert logic  
-- Enabled proactive performance monitoring  
-
-🔗 https://github.com/ZackeryBradley/KPI-Monitoring-Alerting-System
+### 🧱 Data Engineering & Modeling
+- Built scalable **star schema data warehouse**
+- Implemented **schema validation & data quality frameworks**
+- Designed systems for **data reliability and governance**
 
 ---
 
-### ⭐ Data Validation & Schema Enforcement
-📌 Data Engineering / Data Quality  
-
-Built a framework to validate data schema and enforce data integrity standards.
-
-**Key Highlights**
-- Schema validation checks  
-- Data consistency enforcement  
-- Early detection of data anomalies  
-
-🔗 https://github.com/ZackeryBradley/Data-Validation-Schema-Enforcement
+### 📊 Analytics & Reporting
+- Developed **dynamic reporting engine** for on-demand insights  
+- Created **KPI monitoring systems** with alerting logic  
+- Enabled faster, data-driven decision-making  
 
 ---
 
-### ⭐ Ad-Hoc Reporting Engine
-📌 Analytics / Reporting  
-
-Created a flexible reporting engine for generating insights on demand.
-
-**Key Highlights**
-- Dynamic query-based reporting  
-- Supports exploratory data analysis  
-- Reduces reliance on static dashboards  
-
-🔗 https://github.com/ZackeryBradley/Ad-Hoc-Reporting-Engine
+### 🤖 Automation & Applications
+- Built interactive Python apps (flash cards, games)
+- Developed reusable analytical scripts  
+- Demonstrated end-to-end data handling  
 
 ---
 
-### ⭐ Spanish Flash Card Learning App
-📌 Application Development  
-
-Developed an interactive learning tool to improve vocabulary through flashcards.
-
-**Key Highlights**
-- Interactive user logic  
-- Educational application design  
-- Demonstrates Python UI and logic skills  
-
-🔗 https://github.com/ZackeryBradley/Spanish-Flash-Card-Learning-App
-
----
-
-### ⭐ US States Python Game
-📌 Python / Interactive Development  
-
-Created an educational game to help users learn US geography.
-
-**Key Highlights**
-- Interactive gameplay logic  
-- Reinforces learning through engagement  
-- Demonstrates foundational programming skills  
-
-🔗 https://github.com/ZackeryBradley/US-States-Python-Game
-
----
-
-## 📈 What I’m Currently Working On
-- Building interactive dashboards for business stakeholders  
-- Expanding data quality and validation systems  
-- Developing end-to-end analytics projects (SQL → Python → BI tools)  
+## 📌 Current Focus
+- Data pipelines & automation  
+- Analytics engineering best practices  
+- Dashboard development (Power BI / SQL integration)  
 
 ---
 
@@ -124,3 +84,4 @@ Created an educational game to help users learn US geography.
 - LinkedIn: https://www.linkedin.com/in/zackerybradley/
 
 ---
+``
