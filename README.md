@@ -42,10 +42,9 @@ I build data-driven solutions that transform raw data into actionable insights. 
 
 ## 📈 GitHub Analytics
 
-<!-- SAFE STATS (will not error) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZackeryBradley&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZackeryBradley&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZackeryBradley&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Zackery Bradley GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZackeryBradley&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 ---
