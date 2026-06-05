@@ -3,6 +3,9 @@
 
 ---
 
+![Stats](https://github-readme-stats.vercel.app/api?username=ZackeryBradley&show_icons=true)
+
+
 ## 🚀 About Me
 I’m a data analyst focused on transforming raw data into structured, reliable, and actionable insights.
 
