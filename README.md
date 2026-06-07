@@ -33,6 +33,7 @@ I build data-driven solutions that transform raw data into actionable insights. 
 |--------|--------|-----------|
 | [Titanic Data Warehouse](https://github.com/ZackeryBradley/Titanic-Data-Warehouse-Star-Schema-) | Data Modeling | Star Schema, ETL |
 | [KPI Monitoring & Alerts](https://github.com/ZackeryBradley/KPI-Monitoring-Alerting-System) | Analytics Engineering | Automation, Alerting |
+| [RCA Analysis Engine](https://github.com/ZackeryBradley/Root-Cause-Analysis-Engine/tree/main) | Automated business insight generation | Period-over-period performance diagnostics |Interactive analytics design |
 | [Data Validation Framework](https://github.com/ZackeryBradley/Data-Validation-Schema-Enforcement) | Data Engineering | Schema Checks, Data Quality |
 | [Ad-Hoc Reporting Engine](https://github.com/ZackeryBradley/Ad-Hoc-Reporting-Engine) | Analytics | Reporting, EDA |
 | [Spanish Flash Cards](https://github.com/ZackeryBradley/Spanish-Flash-Card-Learning-App) | App Development | Python UI, Logic |
