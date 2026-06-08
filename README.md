@@ -4,7 +4,11 @@
 ---
 
 ## 🚀 About Me
-I build data-driven solutions that transform raw data into actionable insights. My focus is on analytics engineering, data quality, KPI monitoring, and scalable reporting systems.
+I found my passion in the field of analytics through a desire to challenge myself and grow beyond my early experience in the banking and financial industry. Transitioning into data has allowed me to combine analytical thinking with creativity, and over time I’ve developed a strong appreciation for transforming raw data into meaningful insights and impactful visualizations.
+
+I enjoy building end-to-end solutions—from data ingestion and transformation to modeling and visualization—designed to support scalable, decision-driven analytics. My work emphasizes data quality, performance, and business alignment.
+
+As I continue to grow in this field, I actively push myself to become a more technically skilled analyst while also strengthening my ability to communicate insights clearly and collaborate effectively with stakeholders. I take pride in being both detail-oriented and adaptable, always striving to improve not only my own capabilities but also the systems and processes around me.
 
 ---
 
