@@ -35,9 +35,9 @@ As I continue to grow in this field, I actively push myself to become a more tec
 
 | Project | Category | Key Skills |
 |--------|--------|-----------|
-| [Healthcare Data Modeling](https://github.com/ZackeryBradley/Healthcare_Data_Modeling/tree/main) | Data Modeling | Interactive Analytics, Data Transformation, Dimensional Modeling |
-| [Titanic Data Warehouse](https://github.com/ZackeryBradley/Titanic-Data-Warehouse-Star-Schema-) | Data Modeling | Star Schema, ETL |
+| [Healthcare Data Modeling](https://github.com/ZackeryBradley/Healthcare_Data_Modeling/tree/main) | Data Modeling | Interactive Analytics, Dimensional Modeling |
 | [KPI Monitoring & Alerts](https://github.com/ZackeryBradley/KPI-Monitoring-Alerting-System) | Analytics Engineering | Automation, Alerting |
+| [Titanic Data Warehouse](https://github.com/ZackeryBradley/Titanic-Data-Warehouse-Star-Schema-) | Data Modeling | Star Schema, ETL, Data Transformation |
 | [RCA Analysis Engine](https://github.com/ZackeryBradley/Root-Cause-Analysis-Engine/tree/main) | Automated business insight generation | Period-over-period performance diagnostics |Interactive analytics design |
 | [Data Validation Framework](https://github.com/ZackeryBradley/Data-Validation-Schema-Enforcement) | Data Engineering | Schema Checks, Data Quality |
 | [Ad-Hoc Reporting Engine](https://github.com/ZackeryBradley/Ad-Hoc-Reporting-Engine) | Analytics | Reporting, EDA |
