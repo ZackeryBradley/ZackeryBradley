@@ -35,6 +35,7 @@ As I continue to grow in this field, I actively push myself to become a more tec
 
 | Project | Category | Key Skills |
 |--------|--------|-----------|
+| [Healthcare Data Modeling](https://github.com/ZackeryBradley/Healthcare_Data_Modeling/tree/main) | Data Modeling | Interactive Analytics, Data Transformation, Dimensional Modeling |
 | [Titanic Data Warehouse](https://github.com/ZackeryBradley/Titanic-Data-Warehouse-Star-Schema-) | Data Modeling | Star Schema, ETL |
 | [KPI Monitoring & Alerts](https://github.com/ZackeryBradley/KPI-Monitoring-Alerting-System) | Analytics Engineering | Automation, Alerting |
 | [RCA Analysis Engine](https://github.com/ZackeryBradley/Root-Cause-Analysis-Engine/tree/main) | Automated business insight generation | Period-over-period performance diagnostics |Interactive analytics design |
@@ -43,6 +44,7 @@ As I continue to grow in this field, I actively push myself to become a more tec
 | [Spanish Flash Cards](https://github.com/ZackeryBradley/Spanish-Flash-Card-Learning-App) | App Development | Python UI, Logic |
 | [US States Game](https://github.com/ZackeryBradley/US-States-Python-Game) | Python | Game Logic |
 | [SQL Queries and Explanation](https://github.com/ZackeryBradley/SQL_Query_Explanations/tree/main) | SQL | Window functions, CTE's, Subqueries |
+
 
 
 
