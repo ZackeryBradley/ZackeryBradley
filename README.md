@@ -44,6 +44,8 @@ As I continue to grow in this field, I actively push myself to become a more tec
 | [Spanish Flash Cards](https://github.com/ZackeryBradley/Spanish-Flash-Card-Learning-App) | App Development | Python UI, Logic |
 | [US States Game](https://github.com/ZackeryBradley/US-States-Python-Game) | Python | Game Logic |
 | [SQL Queries and Explanation](https://github.com/ZackeryBradley/SQL_Query_Explanations/tree/main) | SQL | Window functions, CTE's, Subqueries |
+| [Diabetes_Dashboard](https://github.com/ZackeryBradley/Diabetes_Dashboard/tree/main) | Power BI | Data Analysis, Data Modeling |
+
 
 
 
