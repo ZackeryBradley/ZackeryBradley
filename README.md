@@ -45,7 +45,7 @@ As I continue to grow in this field, I actively push myself to become a more tec
 | [US States Game](https://github.com/ZackeryBradley/US-States-Python-Game) | Python | Game Logic |
 | [SQL Queries and Explanation](https://github.com/ZackeryBradley/SQL_Query_Explanations/tree/main) | SQL | Window functions, CTE's, Subqueries |
 | [Diabetes Dashboard](https://github.com/ZackeryBradley/Diabetes_Dashboard/tree/main) | Power BI | Data Analysis, Data Modeling |
-| [Banking Data Analysis](https://github.com/ZackeryBradley/Real-World-SQL-Banking-Data-Analysis/blob/main/README.md) | SQL| Data Analysis, CTE, Window Functions |
+| [Banking Data Analysis](https://github.com/ZackeryBradley/Real-World-SQL-Banking-Data-Analysis/tree/main) | SQL| Data Analysis, CTE, Window Functions |
 
 
 ---
