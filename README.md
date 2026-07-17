@@ -46,7 +46,7 @@ As I continue to grow in this field, I actively push myself to become a more tec
 | [SQL Queries and Explanation](https://github.com/ZackeryBradley/SQL_Query_Explanations/tree/main) | SQL | Window functions, CTE's, Subqueries |
 | [Diabetes Dashboard](https://github.com/ZackeryBradley/Diabetes_Dashboard/tree/main) | Power BI | Data Analysis, Data Modeling |
 | [Banking Data Analysis](https://github.com/ZackeryBradley/Real-World-SQL-Banking-Data-Analysis/tree/main) | SQL| Data Analysis, CTE, Window Functions |
-| [Databricks Wanderbricks Advanced SQL Exploration](https://github.com/ZackeryBradley/Databricks_Wanderbricks_Exploration) | SQL| Data Analysis, CTE, Window Functions |
+| [Databricks Wanderbricks Advanced SQL Analysis](https://github.com/ZackeryBradley/Databricks_Wanderbricks_Exploration) | SQL| Data Analysis, CTE, Window Functions |
 
 
 
