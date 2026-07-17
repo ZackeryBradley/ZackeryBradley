@@ -36,6 +36,7 @@ As I continue to grow in this field, I actively push myself to become a more tec
 | Project | Category | Key Skills |
 |--------|--------|-----------|
 | [Healthcare Data Modeling](https://github.com/ZackeryBradley/Healthcare_Data_Modeling/tree/main) | Data Modeling | Interactive Analytics, Dimensional Modeling |
+| [Databricks Wanderbricks Advanced SQL Analysis](https://github.com/ZackeryBradley/Databricks_Wanderbricks_Exploration) | SQL| Data Analysis, CTE, Window Functions |
 | [KPI Monitoring & Alerts](https://github.com/ZackeryBradley/KPI-Monitoring-Alerting-System) | Analytics Engineering | Automation, Alerting |
 | [Titanic Data Warehouse](https://github.com/ZackeryBradley/Titanic-Data-Warehouse-Star-Schema-) | Data Modeling | Star Schema, ETL, Data Transformation |
 | [RCA Analysis Engine](https://github.com/ZackeryBradley/Root-Cause-Analysis-Engine/tree/main) | Automated business insight generation | Period-over-period performance diagnostics |Interactive analytics design |
@@ -46,7 +47,6 @@ As I continue to grow in this field, I actively push myself to become a more tec
 | [SQL Queries and Explanation](https://github.com/ZackeryBradley/SQL_Query_Explanations/tree/main) | SQL | Window functions, CTE's, Subqueries |
 | [Diabetes Dashboard](https://github.com/ZackeryBradley/Diabetes_Dashboard/tree/main) | Power BI | Data Analysis, Data Modeling |
 | [Banking Data Analysis](https://github.com/ZackeryBradley/Real-World-SQL-Banking-Data-Analysis/tree/main) | SQL| Data Analysis, CTE, Window Functions |
-| [Databricks Wanderbricks Advanced SQL Analysis](https://github.com/ZackeryBradley/Databricks_Wanderbricks_Exploration) | SQL| Data Analysis, CTE, Window Functions |
 
 
 
