@@ -35,17 +35,17 @@ As I continue to grow in this field, I actively push myself to become a more tec
 
 | Project | Category | Key Skills |
 |--------|--------|-----------|
-| [Healthcare Data Modeling](https://github.com/ZackeryBradley/Healthcare_Data_Modeling/tree/main) | Data Modeling | App Development, Interactive Analytics, Dimensional Modeling |
-| [Titanic Data Warehouse](https://github.com/ZackeryBradley/Titanic-Data-Warehouse-Star-Schema-) | Data Modeling | App Development, Star Schema, ETL, Data Transformation |
+| [Healthcare Data Modeling](https://github.com/ZackeryBradley/Healthcare_Data_Modeling/tree/main) | Python - Data Modeling | App Development, Interactive Analytics, Dimensional Modeling |
+| [Titanic Data Warehouse](https://github.com/ZackeryBradley/Titanic-Data-Warehouse-Star-Schema-) | Python - Data Modeling | App Development, Star Schema, ETL, Data Transformation |
 | [Databricks Wanderbricks Advanced SQL Analysis](https://github.com/ZackeryBradley/Databricks_Wanderbricks_Exploration) | SQL| Data Analysis, CTE, Window Functions |
 | [SQL Queries and Explanation](https://github.com/ZackeryBradley/SQL_Query_Explanations/tree/main) | SQL | Window functions, CTE's, Subqueries |
 | [Banking Data Analysis](https://github.com/ZackeryBradley/Real-World-SQL-Banking-Data-Analysis/tree/main) | SQL| Data Analysis, CTE, Window Functions |
-| [KPI Monitoring & Alerts](https://github.com/ZackeryBradley/KPI-Monitoring-Alerting-System) | Analytics Engineering | Automation, Alerting |
-| [RCA Analysis Engine](https://github.com/ZackeryBradley/Root-Cause-Analysis-Engine/tree/main) | Automated business insight generation | Period-over-period performance diagnostics |Interactive analytics design |
-| [Data Validation Framework](https://github.com/ZackeryBradley/Data-Validation-Schema-Enforcement) | Data Engineering | Schema Checks, Data Quality |
-| [Ad-Hoc Reporting Engine](https://github.com/ZackeryBradley/Ad-Hoc-Reporting-Engine) | Analytics | Reporting, EDA |
 | [Data Quality Analysis Dashboard](https://github.com/ZackeryBradley/Quality-Analysis-Report) | Power BI | DAX, Data Analysis, Data Modeling|
 | [Diabetes Dashboard](https://github.com/ZackeryBradley/Diabetes_Dashboard/tree/main) | Power BI | Data Analysis, Data Modeling |
+| [KPI Monitoring & Alerts](https://github.com/ZackeryBradley/KPI-Monitoring-Alerting-System) | Python - Analytics Engineering | Automation, Alerting |
+| [RCA Analysis Engine](https://github.com/ZackeryBradley/Root-Cause-Analysis-Engine/tree/main) | Python - Automated business insight generation | Period-over-period performance diagnostics |Interactive Analytics |
+| [Data Validation Framework](https://github.com/ZackeryBradley/Data-Validation-Schema-Enforcement) | Python - Data Engineering | Schema Checks, Data Quality |
+| [Ad-Hoc Reporting Engine](https://github.com/ZackeryBradley/Ad-Hoc-Reporting-Engine) | Python - Analytics | Reporting, EDA |
 | [US States Game](https://github.com/ZackeryBradley/US-States-Python-Game) | Python | Game Logic |
 
 
