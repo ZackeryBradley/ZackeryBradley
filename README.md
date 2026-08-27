@@ -54,15 +54,11 @@ As I continue to grow in this field, I actively push myself to become a more tec
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZackeryBradley&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZackeryBradley&layout=compact&hide_border=true" />
-</p>
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=ZackeryBradley)](https://github.com/stats-organization/github-stats-extended)
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZackeryBradley&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZackeryBradley&layout=compact&hide_border=true" />
-</p> -->
+<p align="top right">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ZackeryBradley&layout=compact&hide_border=true" />
+</p> 
 
 
 ## ⚡ Project Highlights
